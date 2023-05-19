@@ -1,0 +1,29 @@
+/* -- paleta de colores https://coolors.co/bbdef0-00a6a6-efca08-f49f0a-f08700 -- */
+body {
+    background-image: url(img/fondo.jpg);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.cuerpo{
+    background-color: #BBDEF0;
+    margin: 60px auto;
+    padding: 80px;
+    max-width: 700px;
+    border-radius: 20px;
+}
+header {
+    color: #00A6A6;
+    font-size: 40px;
+    border-radius: 20px;
+}
+
+footer{
+    display: inline;
+    background-color: #F49F0A;
+}
